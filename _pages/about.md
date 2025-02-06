@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.verizonconnect.com'>Verizon Connect</a> and <a href='https://www.dinfo.unifi.it'>DINFO, University of Florence</a>.
+subtitle:
 
 profile:
   align: right
@@ -31,6 +31,6 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Currently doing my PhD at Verizon Connect and University of Florence under the <a href='https://informationengineering.dinfo.unifi.it'>Information Engineering</a> PhD Course. I'm advised by <a href='https://scholar.google.com/citations?hl=en&user=_Fk4YUcAAAAJ'>Andrew David Bagdanov</a>.
+Currently doing my PhD at University of Florence under the <a href='https://informationengineering.dinfo.unifi.it'>Information Engineering</a> PhD Course. I'm advised by <a href='https://scholar.google.com/citations?hl=en&user=_Fk4YUcAAAAJ'>Andrew David Bagdanov</a>.
 
 In my research I focus on computer vision applied to intelligent vehicles. In particular I'm interested in domain shifts and their effects to fundamental perception tasks such as depth estimation.

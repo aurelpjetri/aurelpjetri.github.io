@@ -31,6 +31,6 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I'm a PhD candidate at University of Florence under the <a href='https://informationengineering.dinfo.unifi.it'>Information Engineering</a> PhD Course. Mu adivisor is <a href='https://scholar.google.com/citations?hl=en&user=_Fk4YUcAAAAJ'>Andrew David Bagdanov</a>.
+I'm a PhD candidate at University of Florence under the <a href='https://informationengineering.dinfo.unifi.it'>Information Engineering</a> PhD Course. My adivisor is <a href='https://scholar.google.com/citations?hl=en&user=_Fk4YUcAAAAJ'>Andrew David Bagdanov</a>.
 
 In my research I focus on computer vision applied to intelligent vehicles. In particular I'm interested in domain shifts and their effects to fundamental perception tasks such as depth estimation.
